@@ -1,13 +1,9 @@
-### Hello, I'm Santhosh Paramasivam
-
-- I'm primarily a Java developer with a bit too much experience in Python.
-
 ### Interests
 
-- Software development using Java-style languages.
+- Software development using Java-style languages, like Dart and Kotlin.
 - Backend web development using Java or Python.
 
 ### Currently Developing
 
 - CampusFind, a flutter app for locating people in professional settings
-- CampusFind Admin backend
+- CampusFind Admin backend, a spring boot java backend for the admin side of CampusFind

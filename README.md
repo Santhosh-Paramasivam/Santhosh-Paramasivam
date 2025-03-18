@@ -1,9 +1,6 @@
-### Interests
+# Hello There, I'm Santhosh
 
-- Software development using Java-style languages, like Dart and Kotlin.
-- Backend web development using Java or Python.
-
-### Currently Developing
-
-- CampusFind, a flutter app for locating people in professional settings
-- CampusFind Admin backend, a spring boot java backend for the admin side of CampusFind
+- I am a software developer who loves the safety of Java and the comfort of Python
+- Currently building - [CampusFind Admin](https://github.com/Santhosh-Paramasivam/CampusFind-Admin_Backend.git)
+- I wish to build large open-source projects  
+- And leave the world a better place than I found it

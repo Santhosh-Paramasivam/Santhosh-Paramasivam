@@ -8,5 +8,3 @@
 - CampusFind, a flutter app for locating people in professional settings
 - CampusFind Admin backend, a spring boot java backend for the admin side of CampusFind
 
-# This is a trial
-
